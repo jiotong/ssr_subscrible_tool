@@ -1,2 +1,1 @@
-trojan://AIXL0JccLwaRUKPP@tor1.lakecross233.tk:443?sni=tor1.lakecross233.tk#Oracle_SKR_TOR1
-trojan://CnCwtMnuSxlsaar4@tro2.lakecross233.ml:443?sni=tro2.lakecross233.ml#Oracle_SKR_TOR2
+0
